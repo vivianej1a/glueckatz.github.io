@@ -1,7 +1,7 @@
 ---
 layout: page
 title: buzzbuzz
-description: a project with a background image
+description: buzzbuzz cat
 img: assets/img/buzzbuzz.jpg
 importance: 1
 category: work
