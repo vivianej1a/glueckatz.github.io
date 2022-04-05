@@ -2,7 +2,7 @@
 layout: page
 title: 卡知南
 description: 卡知南
-img: assets/img/kazhinan.jpg
+img: assets/img/kazhinan3.jpg
 importance: 1
 category: work
 ---
@@ -22,6 +22,14 @@ To give your project a background in the portfolio page, just add the img tag to
         <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/kazhinan2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/kazhinan3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    kazhinan
+</div>
 
 </div>
 <div class="caption">
