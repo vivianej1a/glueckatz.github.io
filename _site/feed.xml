@@ -1,44 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, de, cn"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en, de, cn" /><updated>2022-04-08T21:38:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GLÜCKATZ 德文猫舍</title><subtitle>small hobby cattery dedicated for Devon Rex.
-</subtitle><entry><title type="html">Hey this is Glückatz</title><link href="http://localhost:4000/blog/2022/local/" rel="alternate" type="text/html" title="Hey this is Glückatz" /><published>2022-04-02T23:01:00+02:00</published><updated>2022-04-02T23:01:00+02:00</updated><id>http://localhost:4000/blog/2022/local</id><content type="html" xml:base="http://localhost:4000/blog/2022/local/"><![CDATA[<p>Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow 
-Meow Meow Meow Meow Meow 
-Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</p>
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    <!-- <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
-    <source media="(max-width: 800px)" srcset="/assets/img/buzzbuzz-800.webp" />
-    <source media="(max-width: 1400px)" srcset="/assets/img/buzzbuzz-1400.webp" />
-    -->
-
-    <!-- Fallback to the original file -->
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/buzzbuzz.jpg" data-zoomable="" />
-
-  </picture>
-
-</figure>
-
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <figure>
-
-  <picture>
-    <!-- <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
-    <source media="(max-width: 800px)" srcset="/assets/img/buzzbuzz-800.webp" />
-    <source media="(max-width: 1400px)" srcset="/assets/img/buzzbuzz-1400.webp" />
-    -->
-
-    <!-- Fallback to the original file -->
-    <img class="img-fluid rounded z-depth-1" src="/assets/img/buzzbuzz.jpg" data-zoomable="" />
-
-  </picture>
-
-</figure>
-
-    </div>
-</div>]]></content><author><name></name></author><summary type="html"><![CDATA[buzz buzz is a cute devon rex]]></summary></entry><entry><title type="html">a post with redirect</title><link href="http://localhost:4000/blog/2021/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2021-07-04T19:39:00+02:00</published><updated>2021-07-04T19:39:00+02:00</updated><id>http://localhost:4000/blog/2021/redirect</id><content type="html" xml:base="http://localhost:4000/blog/2021/redirect/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="http://localhost:4000/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+02:00</published><updated>2021-05-22T00:00:00+02:00</updated><id>http://localhost:4000/blog/2021/distill</id><content type="html" xml:base="http://localhost:4000/blog/2021/distill/"><![CDATA[<p><strong>NOTE:</strong>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, de, cn"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en, de, cn" /><updated>2022-04-08T22:14:22+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GLÜCKATZ 德文猫舍</title><subtitle>small hobby cattery dedicated for Devon Rex.
+</subtitle><entry><title type="html">a post with redirect</title><link href="http://localhost:4000/blog/2021/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2021-07-04T19:39:00+02:00</published><updated>2021-07-04T19:39:00+02:00</updated><id>http://localhost:4000/blog/2021/redirect</id><content type="html" xml:base="http://localhost:4000/blog/2021/redirect/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="http://localhost:4000/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+02:00</published><updated>2021-05-22T00:00:00+02:00</updated><id>http://localhost:4000/blog/2021/distill</id><content type="html" xml:base="http://localhost:4000/blog/2021/distill/"><![CDATA[<p><strong>NOTE:</strong>
 Citations, footnotes, and code blocks do not display correctly in the dark mode since distill does not support the dark mode by default.
 If you are interested in correctly adding dark mode support for distill, please open <a href="https://github.com/alshedivat/al-folio/discussions">a discussion</a> and let us know.</p>
 
