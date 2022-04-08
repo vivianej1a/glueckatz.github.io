@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, de, cn"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en, de, cn" /><updated>2022-04-06T00:32:57+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GLÜCKATZ 德文猫舍</title><subtitle>small hobby cattery dedicated for Devon Rex.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en, de, cn"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en, de, cn" /><updated>2022-04-08T21:38:40+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">GLÜCKATZ 德文猫舍</title><subtitle>small hobby cattery dedicated for Devon Rex.
 </subtitle><entry><title type="html">Hey this is Glückatz</title><link href="http://localhost:4000/blog/2022/local/" rel="alternate" type="text/html" title="Hey this is Glückatz" /><published>2022-04-02T23:01:00+02:00</published><updated>2022-04-02T23:01:00+02:00</updated><id>http://localhost:4000/blog/2022/local</id><content type="html" xml:base="http://localhost:4000/blog/2022/local/"><![CDATA[<p>Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow 
 Meow Meow Meow Meow Meow 
 Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</p>
@@ -8,9 +8,11 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</p>
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/buzzbuzz-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/buzzbuzz-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/buzzbuzz.jpg" data-zoomable="" />
 
@@ -23,9 +25,11 @@ Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow Meow</p>
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/buzzbuzz-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/buzzbuzz-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/buzzbuzz-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/buzzbuzz.jpg" data-zoomable="" />
 
@@ -384,9 +388,11 @@ Produces something like this:</p>
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/9-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/9-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/9-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/9-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/9.jpg" />
 
@@ -399,9 +405,11 @@ Produces something like this:</p>
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/7-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/7-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/7.jpg" />
 
@@ -423,9 +431,11 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/8-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/8-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/8-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/8-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/8.jpg" data-zoomable="" />
 
@@ -438,9 +448,11 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/10-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/10-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/10-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/10-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/10.jpg" data-zoomable="" />
 
@@ -458,9 +470,11 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/11-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/11-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/11-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/11-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/11.jpg" data-zoomable="" />
 
@@ -473,9 +487,11 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/12-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/12-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/12-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/12-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/12.jpg" data-zoomable="" />
 
@@ -488,9 +504,11 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
         <figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
+    <!-- <source media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
     <source media="(max-width: 800px)" srcset="/assets/img/7-800.webp" />
     <source media="(max-width: 1400px)" srcset="/assets/img/7-1400.webp" />
+    -->
+
     <!-- Fallback to the original file -->
     <img class="img-fluid rounded z-depth-1" src="/assets/img/7.jpg" data-zoomable="" />
 
