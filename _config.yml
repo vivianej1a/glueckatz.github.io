@@ -2,16 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: GLÜCKATZ 德文猫舍 # the website title (if blank, full name will be used instead)
+title: Kreacher 德文猫舍 # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name: 
-last_name: GLÜCKATZ Cattery
-email: info@glueckatz-cattery.de
+last_name: Devon Rex Cattery "von Kreacher"
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  small hobby cattery dedicated for Devon Rex.
+  Devon Rex Cattery "von Kreacher"
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and GLÜCKATZ Cattery.
+  
 keywords: devon rex, cat, katze  # add your own keywords or leave empty
 
 lang: en, de, cn # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -72,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  We're currently registrating on WCF.
+  Registrated on WCF.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -83,7 +82,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: GLÜCKATZ  # your blog must have a name for it to show up in the nav bar
+blog_name: Kreacher  # your blog must have a name for it to show up in the nav bar
 blog_description: responsible, careful, scientific, and with love
 permalink: /blog/:year/:title/
 
@@ -92,7 +91,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: glückatz # put your disqus shortname
+disqus_shortname: von kreacher # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
